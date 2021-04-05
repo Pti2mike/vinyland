@@ -1,0 +1,19 @@
+.vinyl-banner {
+  color: black;
+  text-align: right;
+  padding: 32px;
+  border-bottom: solid 3px black;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+  align-items: center;
+}
+
+.vinyl-title {
+  padding-left: 32px;
+}
+
+.vinyl-logo {
+  height: 50px;
+  width: 50px;
+}
